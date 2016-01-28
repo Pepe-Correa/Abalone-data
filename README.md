@@ -3,17 +3,17 @@ A classical data set to predict the age of abalone from physical measurements (N
 
 This data set is available for free and accessible on https://archive.ics.uci.edu/ml/datasets/Abalone
 
-| Variable name  | Data type       | Description                          |
-| -------------- |:---------------:| ------------------------------------:|
-| Sex            | nominal         | M (male), F (female), and I (infant) |
-| Length         | continuous (mm) | Longest shell measurement            |
-| Diameter       | continuous (mm) | Perpendicular to length              |
-| Height         | continuous (mm) | With meat in shell                   |
-| Whole_weight   | continuous (g)  | Whole abalone                        |
-| Shucked_weight | continuous (g)  | Weight of meat                       |
-| Viscera_weight | continuous (g)  | Gut weight (after bleeding)          |
-| Shell_weight   | continuous (g)  | After being dried                    |
-| Rings          | integer         | +1.5 gives the age in years          |
+| Variable name      | Data type  | Description                          |
+| ------------------ |------------| ------------------------------------:|
+| Sex                | nominal    | M (male), F (female), and I (infant) |
+| Length (mm)        | continuous | Longest shell measurement            |
+| Diameter (mm)      | continuous | Perpendicular to length              |
+| Height (mm)        | continuous | With meat in shell                   |
+| Whole_weight (g)   | continuous | Whole abalone                        |
+| Shucked_weight (g) | continuous | Weight of meat                       |
+| Viscera_weight (g) | continuous | Gut weight (after bleeding)          |
+| Shell_weight (g)   | continuous | After being dried                    |
+| Rings              | integer    | +1.5 gives the age in years          |
 
 
 ---
