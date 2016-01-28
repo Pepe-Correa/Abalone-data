@@ -3,6 +3,8 @@ A classical data set to predict the age of abalone from physical measurements (N
 
 This data set is available for free and accessible on https://archive.ics.uci.edu/ml/datasets/Abalone
 
+Variable information and details:
+
 | Variable name      | Data type  | Description                          |
 | ------------------ |------------| ------------------------------------:|
 | Sex                | nominal    | M (male), F (female), and I (infant) |
