@@ -3,6 +3,14 @@ A classical data set to predict the age of abalone from physical measurements (N
 
 This data set is available for free and accessible on https://archive.ics.uci.edu/ml/datasets/Abalone
 
+We edited the original data to a R-friendly format ready to use (.csv):
+
+```R
+abalone <- read.csv()
+m0 <- lm()
+summary(m0)
+```
+
 Variable information and details:
 
 | Variable name      | Data type  | Description                          |
