@@ -6,8 +6,8 @@ This data set is available for free and accessible on https://archive.ics.uci.ed
 We edited the original data to a R-friendly format ready to use (.csv):
 
 ```R
-abalone <- read.csv()
-m0 <- lm()
+abalone <- read.csv("https://goo.gl/ERzROX")
+m0 <- lm(Diameter ~ Length, data = abalone)
 summary(m0)
 ```
 
